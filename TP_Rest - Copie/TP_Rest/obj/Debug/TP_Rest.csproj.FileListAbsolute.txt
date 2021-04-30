@@ -1,0 +1,285 @@
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\TP_Rest.dll.config
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\TP_Rest.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\TP_Rest.pdb
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\csc.exe
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\csc.exe.config
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\csc.rsp
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\csi.exe
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\csi.exe.config
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\csi.rsp
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.AppContext.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Console.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.IO.Compression.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Net.Http.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.ValueTuple.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\vbc.exe
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\vbc.exe.config
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\vbc.rsp
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\VBCSCompiler.exe
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\Antlr3.Runtime.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\Newtonsoft.Json.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Net.Http.Formatting.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Helpers.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Http.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Http.WebHost.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Mvc.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Optimization.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Razor.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.WebPages.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.WebPages.Razor.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\WebGrease.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\Newtonsoft.Json.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Net.Http.Formatting.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Helpers.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Http.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Http.WebHost.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Mvc.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Optimization.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.Razor.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.WebPages.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\System.Web.WebPages.Razor.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\Antlr3.Runtime.pdb
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\fr\System.Web.Http.resources.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\fr\System.Web.Razor.resources.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\obj\Debug\TP_Rest.csprojAssemblyReference.cache
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\obj\Debug\TP_Rest.csproj.CoreCompileInputs.cache
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\obj\Debug\TP_Rest.csproj.CopyComplete
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\obj\Debug\TP_Rest.dll
+C:\Users\marcb\source\repos\TP_Rest\TP_Rest\obj\Debug\TP_Rest.pdb
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\TP_Rest.dll.config
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\TP_Rest.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\TP_Rest.pdb
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\csc.exe
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\csc.exe.config
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\csc.rsp
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\csi.exe
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\csi.exe.config
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\csi.rsp
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.AppContext.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Console.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.IO.Compression.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Net.Http.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.ValueTuple.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\vbc.exe
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\vbc.exe.config
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\vbc.rsp
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\VBCSCompiler.exe
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\Antlr3.Runtime.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\Newtonsoft.Json.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Net.Http.Formatting.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Helpers.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Http.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Http.WebHost.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Mvc.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Optimization.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Razor.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.Razor.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\WebGrease.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\Newtonsoft.Json.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Net.Http.Formatting.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Helpers.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Http.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Http.WebHost.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Mvc.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Optimization.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.Razor.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.Razor.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\Antlr3.Runtime.pdb
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Http.resources.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Razor.resources.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\obj\Debug\TP_Rest.csprojAssemblyReference.cache
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\obj\Debug\TP_Rest.csproj.CoreCompileInputs.cache
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\obj\Debug\TP_Rest.csproj.CopyComplete
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\obj\Debug\TP_Rest.dll
+C:\Users\marcb\source\repos\TP_Rest - Copie\TP_Rest\obj\Debug\TP_Rest.pdb
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\TP_Rest.dll.config
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\TP_Rest.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\TP_Rest.pdb
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\csc.exe
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\csc.exe.config
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\csc.rsp
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\csi.exe
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\csi.exe.config
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\csi.rsp
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.AppContext.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Console.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Net.Http.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\vbc.exe
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\vbc.exe.config
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\vbc.rsp
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\Antlr3.Runtime.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\Newtonsoft.Json.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Net.Http.Formatting.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Helpers.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Http.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Http.WebHost.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Mvc.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Optimization.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Razor.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\WebGrease.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\Newtonsoft.Json.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Net.Http.Formatting.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Helpers.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Http.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Http.WebHost.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Mvc.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Optimization.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.Razor.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\Antlr3.Runtime.pdb
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Http.resources.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\obj\Debug\TP_Rest.csprojAssemblyReference.cache
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\obj\Debug\TP_Rest.csproj.CoreCompileInputs.cache
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\obj\Debug\TP_Rest.csproj.CopyComplete
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\obj\Debug\TP_Rest.dll
+C:\Users\Jerem\Downloads\TP_Rest - Copie\TP_Rest\obj\Debug\TP_Rest.pdb
